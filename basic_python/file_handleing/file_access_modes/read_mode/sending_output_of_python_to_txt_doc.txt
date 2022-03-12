@@ -1,0 +1,25 @@
+#link
+#https://www.techiedelight.com/redirect-standard-output-to-file-python/
+"""
+r means raw the raw string cam handle the backslashes in the file path
+A raw string will handle back slashes in most cases, such as these two examples:
+
+In [11]:
+r'c:\path'
+
+Out[11]:
+'c:\\path'
+"""
+#to send output into file 
+"""
+import sys
+ 
+path = 'path/to/some/dir/file.txt'
+sys.stdout = open(path, 'w')
+print('Hello, World')
+"""
+"""
+import sys
+path=r"D:\INT_213_Python\basic_python\file_handleing\file_access_modes\output_for_read_mode.txt"
+sys.stdout=open(path,'w')
+"""

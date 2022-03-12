@@ -1,0 +1,22 @@
+import array
+num=array.array('i',[1,2,3,4,5,6,7,8,9])
+print("num=",num)
+num[0],num[2]=5,34658
+print("num=",num)
+num[2:6]=array.array('i',[4,5,6,7])
+print("""num[2:6]=array.array('i',[4,5,6,7])\nnum=""",num)
+#deleating array
+del num[3:6]
+
+print("""del num[3:6]\nnum=""",num)
+
+#finding the length of array
+#len(array_name)
+print("len(num)=",len(num))
+
+#Array Concatenation
+a=array.array('d',[1.1,2.1,3.1,4.1,5.1,6.1,7.1,8.1,9.1])
+b=array.array('d',[1.2,2.2,3.2,4.2,5.2,6.2,7.2,8.2,9.2])
+c=array.array('d')
+c=a+b
+print("c=",c)

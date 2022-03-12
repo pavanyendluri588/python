@@ -1,0 +1,123 @@
+Models & Methods
+
+Machine Learning
+Deep Learning
+Neural Networks
+Supervised Learning
+Unsupervised Learning
+Decision Trees
+Anomaly Detection
+Linear Regression
+Classification
+Sentimental Analyis
+Technology
+
+Python
+TensorFlow
+PyTorch
+Keras
+Scikit Learn
+Jupyter Notebook
+
+
+Models & Methods
+
+Machine Learning
+Deep Learning
+Neural Networks
+Supervised Learning
+Unsupervised Learning
+Semi Supervised Learning
+Decision Trees
+Feature Learning
+Linear Regression
+Classification Models
+Technology
+
+Python
+OpenCV
+Keras
+Scikit Learn
+Colab
+Jupyter Notebook
+Expertise
+
+Image Processing
+Image Recognition
+Face Recognition
+OCR
+Image Segmentation
+Object Detection
+Image Tagging
+Image Classification
+
+Image processing
+Deep Learning based
+Machine Learning based
+Computer vision based
+Face Recognition
+Data cleaning, Analysis, Visualization
+Classification
+Regression
+Clustering
+Data mining
+Data Warehousing
+Text Classification
+Natural Language Processing(NLP)
+Time-Series Analysis
+Semantic Analysis
+Object detection
+Object Recognition
+Generative Adversarial Network
+Convolutional neural network (CNN)
+Basic machine learning and deep learning projects
+
+Time series Analysis
+Transformers in Time series Forecasting
+BERT, Spacy, Gen-sim, LSTM
+Hyper parameter tuning
+Gg plot, plotly
+Data Cleaning and Preparation
+Data Mining
+Image processing
+Image Classification
+Object detection
+Counting numbers
+Crowd counting
+Image Annotation
+Object tracing
+Descriptive Statistics
+Data Visualization
+Exploratory Data Analysis
+Feature Engineering
+Preprocessing Data
+Supervised and Unsupervised Learning
+Predictive Modelling
+Regression
+Clustering
+Dimension Reduction
+Classification
+Association
+Anomaly Detection
+Predictive Modelling
+Neural Networks
+Pandas, numpy
+matplotlib, Seaborn, Bokeh
+dash,Tableau
+
+
+Models & Methods
+
+Machine Learning
+Cluster Computing
+Linear Regression
+Classification
+Sentimental Analyis
+Technology
+
+Python
+R
+OpenCV
+Keras
+Scikit Learn
+Jupyter Notebook

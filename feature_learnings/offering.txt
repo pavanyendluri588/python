@@ -1,0 +1,9 @@
+Any of machine learning task or deep learning project from scratch
+Data processing, Data visualization, extracting insights from data
+CNNs, RNNs, Variational auto encoders for deep learning tasks  
+Unsupervised learning algorithms to find patterns.
+Natural language processing (NLP) projects
+Customized Chatbots
+Time series analysis i.e Stock prediction and other forecasting models
+Implementation and hyper parameters tuning of machine learning algorithms ie logistic regression, 
+linear regression, Decision Trees, Random Forest, SVM and many more

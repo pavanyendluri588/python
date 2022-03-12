@@ -1,0 +1,17 @@
+=============================================================================
+<<<opening the file in the read mode in the current directory>>>>
+File is opened successfully in the read mode
+File is closed successfully
+===============================================================================
+<<<opening the file in read only in the binary format>>>
+File is opened in successfully in the read mode in the binary format
+File is closed successfully
+===============================================================================
+<<<opening the file in the read and write mode>>>
+File is successfully in the read and write mode
+File is closed successfully
+===============================================================================
+<<<opening the file in the read and write mode in the binary format>>>
+File is successfully in the read and write mode in the binary format
+File is closed successfully
+===============================================================================

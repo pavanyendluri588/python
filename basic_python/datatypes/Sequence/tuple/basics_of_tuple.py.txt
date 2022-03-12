@@ -1,0 +1,65 @@
+tuple=(1,2,3,4,'apple','banana',3,4,5,3)
+tuple1=(1,2,3,4,'apple','banana',3,4,5,3)
+tuple11=(1,2,3,4,5,6,7,8,9)
+print("tuple:",tuple)
+#tuple[2]=5
+#this will ggive theis error TypeError: 'tuple' object does not support item assignment
+
+tuple1=("this is pavan")
+print("""tuple1=("this is pavan")  type(tuple1):""",type(tuple1))
+tuple2=("this is pavan ram chandar",)
+print("""tuple2=("this is pavan ram chandar",) type(tuple2)""",type(tuple2))
+
+
+#python tuple inbult functions
+#comparing the two strings if the two strings matches it will give output "true"
+#print("cmp(tuple,tuple1):",cmp(tuple,tuple1)) not working 
+
+#max function will max number
+print("max(tuple1):",max(tuple1))
+print("max(tuple11):",max(tuple11))
+
+#min function will print min number
+print("min(tuple1):",min(tuple1))
+print("min(tuple11):",min(tuple11))
+
+#length of tuple
+print("tuple:",tuple)
+print("len(tuple):",len(tuple))
+print("tuple11",tuple11)
+print("len(tuple11):",len(tuple11))
+
+#converting string to tuple
+#str=("this is pavan ram chandar")
+#print("str:",str,"type(str):",type(str))
+#s=tuple(str)
+#print("s:",s,"type(s):",type(s))
+
+
+
+#tuple indexing and slicing
+#indexing::
+count=0
+for x in tuple11:
+  print("tuple11[%d]=%d"%(count,x))
+  count+=1
+count1=0
+for x in tuple:
+  print("tuple[%d]=%s"%(count1,x))
+  count1+=1
+#slicing::
+print("tuple[1:6]:",tuple[1:6])
+# element 0 to 6 and take step of 2  
+print("tuple[1:6:2]:",tuple[1:6:2])
+
+#negative indexing 
+print("tuple[-1:-7]:",tuple[-1:-7])
+print("tuple[-7:-1]:",tuple[-7:-1])
+print("tuple[-7:-1:2]:",tuple[-7:-1:2])
+
+#deleting tuple
+del tuple #deleting compleate tuple	
+del tuple[0:5]
+print("tuple:",tuple) #TypeError: 'tuple' object does not support item deletion
+
+

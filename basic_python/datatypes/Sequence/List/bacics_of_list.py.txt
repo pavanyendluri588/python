@@ -1,0 +1,41 @@
+list1=['pavan','prudhvi','venkat','rama']
+list2=[1,2,3,4,5]
+#if we  won't use copyfunction means it will take address of list1 so if we change list3 means automitacally it will change list1
+list3=list1.copy()
+#changing an element in a list
+list3[3]=5
+print("list1*7",list1*7)
+print("list1+list2:",list1+list2)
+print(list1,list2,list3)
+print("type of list1 is ",type(list1))
+print("type of list2 is ",type(list2))
+
+#checking the two lists are equal
+list11=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+list22=list11.copy()
+print("checking 2 in list11",2 in list11)
+
+#list iteration
+for x in list11:
+    print(x)
+#getting the length of list11
+print("length of list11:",len(list11))
+
+#removing an element iin list
+print("list11:",list11)
+list11.remove(12) #removeing 12 element from list 
+print("list11:",list11)
+
+#checking the max element in the  list using max function
+print("max(list11):",max(list11))
+
+#checking the min element in the list using min function
+print("min(list11):",min(list11))
+
+#converting sequence to list
+sequence="i am pavan ram chandar"
+list111=list(sequence)
+print("type(list111)",type(list111))
+#deleting the list11 
+del list11
+print(list11)

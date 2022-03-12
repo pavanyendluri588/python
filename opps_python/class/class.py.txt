@@ -1,0 +1,2 @@
+#counting the number of objects for class
+class_name.count

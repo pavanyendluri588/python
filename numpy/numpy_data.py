@@ -1,0 +1,11 @@
+import numpy as np
+a=np.array([1,2,3,4,5,6])
+print(a)
+print(a.data)
+print(a.shape)
+print(a.dtype)
+print(a.size)
+print(a.ndim)
+print(type(a))
+print(id(a))
+print(a.itemsize)
